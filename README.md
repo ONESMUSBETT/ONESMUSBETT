@@ -3,7 +3,7 @@
 
 **🌟 Python, JavaScript, HTML, CSS, and PyQt5 Developer 🌟**
 
-![Profile Banner]([https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile](https://github.com/account))  <!-- Replace with an actual image URL -->
+![Profile Banner](https://github.com/account)  <!-- Replace with an actual image URL -->
 
 ## 🚀 About Me
 
