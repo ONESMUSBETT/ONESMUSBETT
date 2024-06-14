@@ -1,21 +1,19 @@
-Absolutely! Here's a detailed and decorated GitHub profile README for you:
-
----
 
 # 👋 Hello, I'm Onesmus Bett!
 
-**🌟 Python, JavaScript, HTML, and CSS Developer 🌟**
+**🌟 Python, JavaScript, HTML, CSS, and PyQt5 Developer 🌟**
 
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)  <!-- Replace with an actual image URL -->
 
 ## 🚀 About Me
 
-I'm a passionate developer with expertise in creating dynamic and interactive web applications. My journey in the world of programming has been driven by curiosity and a love for solving complex problems with elegant solutions.
+I'm a passionate developer with expertise in creating dynamic and interactive web applications, as well as powerful desktop applications using PyQt5. My journey in the world of programming has been driven by curiosity and a love for solving complex problems with elegant solutions.
 
 - 🌐 **Web Development**: HTML, CSS, JavaScript
 - 🐍 **Backend Development**: Python
+- 🖥️ **Desktop Applications**: PyQt5
 - 📊 **Libraries & Frameworks**: Flask, Django, React, Node.js
-- 🛠️ **Tools**: Git, Docker, Visual Studio Code, Postman
+- 🛠️ **Tools**: Git, Docker, Visual Studio Code
 
 ## 🌱 Currently Learning
 
@@ -25,21 +23,40 @@ I'm a passionate developer with expertise in creating dynamic and interactive we
 
 ## 🛠️ Projects
 
-### 📦 [Eclipse](https://github.com/yourusername/eclipse)
+### 📦 [Eclipse](https://github.com/ONESMUSBETT/eclipse)
 
 An open-source Python module for console manipulation and decoration, making terminal outputs more vibrant and informative using the `rich` library.
 
-![Eclipse Demo](https://via.placeholder.com/800x400.png?text=Eclipse+Module+Demo)  <!-- Replace with an actual image URL -->
+### 🛒 [Grocery Store Management System](https://github.com/ONESMUSBETT/grocery-store-management-system)
 
-### 💡 Other Notable Projects
+A PyQt5-based GUI application for managing grocery store operations, including sales tracking, customer management, sales history, and report generation.
 
-- **[Project One](https://github.com/yourusername/project-one)**: Description of project one.
-- **[Project Two](https://github.com/yourusername/project-two)**: Description of project two.
-- **[Project Three](https://github.com/yourusername/project-three)**: Description of project three.
+![Grocery Store Management System](https://via.placeholder.com/800x400.png?text=Grocery+Store+Management+System+Demo)  <!-- Replace with an actual image URL -->
+
+### ✅ [ToDo-JS](https://github.com/ONESMUSBETT/todo-js)
+
+A simple and interactive ToDo application built with JavaScript, HTML, and CSS. Manage your tasks efficiently with this easy-to-use app.
+
+
+### 🖩 [Calculator App](https://github.com/ONESMUSBETT/calculator-app)
+
+A sleek and functional calculator application built with JavaScript, HTML, and CSS. Perform basic arithmetic operations with a user-friendly interface.
+
+### 🏫 [Student Management System](https://github.com/ONESMUSBETT/student-management-system)
+
+A comprehensive system for managing student information, built with Python and Django. Features include student registration, record management, and reporting.
+
+### 🏥 [Hospital Management System](https://github.com/ONESMUSBETT/hospital-management-system)
+
+A robust hospital management system developed using Python and Django. Includes modules for patient management, appointment scheduling, and medical records.
+
 
 ## 📈 GitHub Stats
 
 ![Onesmus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ONESMUSBETT&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/ONESMUSBETT)](https://github.com/ONESMUSBETT)
 
 
 
