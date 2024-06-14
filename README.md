@@ -3,8 +3,6 @@
 
 **🌟 Python, JavaScript, HTML, CSS, and PyQt5 Developer 🌟**
 
-![Profile Banner](https://github.com/account)  <!-- Replace with an actual image URL -->
-
 ## 🚀 About Me
 
 I'm a passionate developer with expertise in creating dynamic and interactive web applications, as well as powerful desktop applications using PyQt5. My journey in the world of programming has been driven by curiosity and a love for solving complex problems with elegant solutions.
