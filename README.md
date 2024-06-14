@@ -29,8 +29,6 @@ An open-source Python module for console manipulation and decoration, making ter
 
 A PyQt5-based GUI application for managing grocery store operations, including sales tracking, customer management, sales history, and report generation.
 
-![Grocery Store Management System](https://via.placeholder.com/800x400.png?text=Grocery+Store+Management+System+Demo)  <!-- Replace with an actual image URL -->
-
 ### ✅ [ToDo-JS](https://github.com/ONESMUSBETT/todo-js)
 
 A simple and interactive ToDo application built with JavaScript, HTML, and CSS. Manage your tasks efficiently with this easy-to-use app.
