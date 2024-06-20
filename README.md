@@ -1,7 +1,9 @@
 
 # 👋 Hello, I'm Onesmus Bett!
+![Black   Blue Minimalist Modern Initial Font Logo](https://github.com/ONESMUSBETT/ONESMUSBETT/assets/157495445/31e38f62-a137-47d6-82f7-b30cf7c8eba1)
 
 **🌟 Python, JavaScript, HTML, CSS, and PyQt5 Developer 🌟**
+
 
 ## 🚀 About Me
 
